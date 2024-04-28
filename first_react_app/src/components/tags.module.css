@@ -1,0 +1,12 @@
+.tags{
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+    width:100%;
+    background-color: blue;
+    color: white;
+}
+label{
+    padding:10px;
+    font-size: 20px;
+}

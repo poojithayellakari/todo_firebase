@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.task{
+  border:1px solid black;
+  margin:10px;
+  width:50%;
+  margin-left: 25%;
+  margin-top: 50px;
+}
+
+
+

@@ -1,0 +1,19 @@
+.Apptitle{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  background-color: blue;
+  width:100%;
+
+}
+h1{
+  padding-left: 15px;
+}
+button{
+  height:40px;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 5px;
+  border:1px solid white;
+}
